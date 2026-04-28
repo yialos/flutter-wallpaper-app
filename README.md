@@ -96,8 +96,8 @@ Feature/
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/yourusername/wallpaper_app.git
-cd wallpaper_app
+git clone https://github.com/yialos/flutter-wallpaper-app.git
+cd flutter-wallpaper-app
 ```
 
 2. **Install dependencies**
@@ -328,8 +328,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ## 📞 Support
 
 - 📧 Email: support@wallpaperapp.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/wallpaper_app/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/wallpaper_app/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/yialos/flutter-wallpaper-app/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/yialos/flutter-wallpaper-app/discussions)
 
 ## 🗺️ Roadmap
 
